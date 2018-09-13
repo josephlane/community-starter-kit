@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Imporant things to remember:
+
+You can always customize your enviornment to your tatste
