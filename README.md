@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This project involves gathering resources from some of the moust sought after questions
 
 ## What it does
 
-FEATURES PLACEHOLDER
+-Automcatically download answers to popular questions
+-Trending Questions
 
 ## Getting started
 
@@ -53,3 +54,4 @@ If you need help using this app, we encourage you to:
 ## Project maintainers
 
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
+=======
